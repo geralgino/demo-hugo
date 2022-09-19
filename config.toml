@@ -1,0 +1,9 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Belajar Hugo'
+theme = 'skoding'
+summaryLength = 30
+paginate = 2
+[params]
+    Description = "tempat belajar koding"
+
